@@ -8,7 +8,7 @@ During the day, Spooky will measure the soil humidity and the luminosity. This i
 If luminosity is insufficient, with the application you could turn on the lamp. Same thing if humidity is insufficient
 
 ## Electrical circuit
-![circuit](images/circuit_IOT.PNG "")
+![circuit](images/circuit_IOT.png "")
 
 ## 3D view
-![3D_view](images/Spooky_3D.PNG "")
+![3D_view](images/Spooky_3D.png "")
