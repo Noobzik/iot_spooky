@@ -7,6 +7,10 @@ With our application you see your plant health report and trigger some actions t
 During the day, Spooky will measure the soil humidity and the luminosity. This informations will be sent to the server and a report is pushed to the user applciation.
 If luminosity is insufficient, with the application you could turn on the lamp. Same thing if humidity is insufficient
 
+## Useful links
+https://www.tinkercad.com/things/1fQKKxhs0aV-spooky
+https://app.vectary.com/p/5nQZdjbXwfkuwPJg74gJvM
+
 ## Electrical circuit
 ![circuit](images/circuit_IOT.png "")
 
